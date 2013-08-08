@@ -1,5 +1,6 @@
 ---
 title: this should test the link?
+layout: default
 ---
 
 
