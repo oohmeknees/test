@@ -1,6 +1,6 @@
 ---
 title: this should test the link?
-layout: default
+layout: Midnight
 ---
 
 
@@ -8,3 +8,5 @@ layout: default
 ## Here is the next page
 
 [links](index.html) to test?
+
+Has the Midnight them been applied?
