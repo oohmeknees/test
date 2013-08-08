@@ -9,4 +9,4 @@ layout: Midnight
 
 [links](index.html) to test?
 
-Has the Midnight them been applied?
+Has the Midnight theme been applied?
