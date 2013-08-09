@@ -1,6 +1,6 @@
 ---
 title: this is another page
-layout: deafult
+layout: default
 ---
 
 # hopefully this page should work?
