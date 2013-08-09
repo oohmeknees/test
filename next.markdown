@@ -1,6 +1,6 @@
 ---
 title: this should test the link?
-layout: Midnight
+layout: Dinky
 ---
 
 
@@ -10,3 +10,5 @@ layout: Midnight
 [links](index.html) to test?
 
 Has the Midnight theme been applied?
+
+Have now changed the theme to dinky
